@@ -1,7 +1,9 @@
 CREATE TABLE countries (
     country_code INT PRIMARY KEY,
-    country_name VARCHAR(100) NOT NULL
+    country_name VARCHAR(100) NULL
 );
+
+
 
 CREATE TABLE cities (
     city_id INT AUTO_INCREMENT PRIMARY KEY,
@@ -39,7 +41,7 @@ CREATE TABLE restaurant_cuisines (
 
 CREATE TABLE restaurant_metrics (
     restaurant_id INT PRIMARY KEY,
-    currency VARCHAR(20),
+    currency VARCHAR(25),
     average_cost_for_two DECIMAL(10, 2),
     price_range INT CHECK (price_range BETWEEN 1 AND 4),
     has_table_booking VARCHAR(4),
