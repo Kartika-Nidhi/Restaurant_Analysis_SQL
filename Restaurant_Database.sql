@@ -42,13 +42,14 @@ CREATE TABLE restaurant_metrics (
     currency VARCHAR(20),
     average_cost_for_two DECIMAL(10, 2),
     price_range INT CHECK (price_range BETWEEN 1 AND 4),
-    has_table_booking BOOLEAN,
-    has_online_delivery BOOLEAN,
-    is_delivering_now BOOLEAN,
-    switch_to_order_menu BOOLEAN,
+    has_table_booking VARCHAR(4),
+    has_online_delivery VARCHAR(4),
+    is_delivering_now VARCHAR(4),
+    switch_to_order_menu VARCHAR(4),
     aggregate_rating DECIMAL(3, 1),
     rating_color VARCHAR(30),
     rating_text VARCHAR(50),
     votes INT,
     FOREIGN KEY (restaurant_id) REFERENCES restaurants(restaurant_id) ON DELETE CASCADE
 );
+
