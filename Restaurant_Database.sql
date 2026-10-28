@@ -55,3 +55,20 @@ CREATE TABLE restaurant_metrics (
     FOREIGN KEY (restaurant_id) REFERENCES restaurants(restaurant_id) ON DELETE CASCADE
 );
 
+
+--Handle Anomalies Detected During Individual Table Inspection
+
+--cities Table
+-- # UPDATE cities`                                            `
+-- # SET city_name = 'Brasilia'
+-- # WHERE city_name LIKE 'Bra%lia';
+
+-- # UPDATE cities
+-- # SET city_name = 'Sao Paulo'
+-- # WHERE city_name LIKE 'S%Paulo';
+
+
+--cuisines Table
+-- # UPDATE cuisines
+-- # SET cuisine_name = 'Doner'
+-- # WHERE cuisine_name LIKE 'D%er';
