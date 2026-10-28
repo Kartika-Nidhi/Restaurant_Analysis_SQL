@@ -1,0 +1,142 @@
+city_id,city_name,country_code
+1,Makati City,162
+2,Mandaluyong City,162
+3,Pasay City,162
+4,Pasig City,162
+5,Quezon City,162
+6,San Juan City,162
+7,Santa Rosa,162
+8,Tagaytay City,162
+9,Taguig City,162
+10,Brasilia,30
+11,Rio de Janeiro,30
+12,Sao Paulo,30
+13,Albany,216
+14,Armidale,14
+15,Athens,216
+16,Augusta,216
+17,Balingup,14
+18,Beechworth,14
+19,Boise,216
+20,Cedar Rapids/Iowa City,216
+21,Chatham-Kent,37
+22,Clatskanie,216
+23,Cochrane,216
+24,Columbus,216
+25,Consort,37
+26,Dalton,216
+27,Davenport,216
+28,Des Moines,216
+29,Dicky Beach,14
+30,Dubuque,216
+31,East Ballina,14
+32,Fernley,216
+33,Flaxton,14
+34,Forrest,14
+35,Gainesville,216
+36,Hepburn Springs,14
+37,Huskisson,14
+38,Inverloch,14
+39,Lakes Entrance,14
+40,Lakeview,216
+41,Lincoln,216
+42,Lorn,14
+43,Macedon,14
+44,Macon,216
+45,Mayfield,14
+46,Mc Millan,216
+47,Middleton Beach,14
+48,Miller,216
+49,Monroe,216
+50,Montville,14
+51,Ojo Caliente,216
+52,Orlando,216
+53,Palm Cove,14
+54,Paynesville,14
+55,Penola,14
+56,Pensacola,216
+57,Phillip Island,14
+58,Pocatello,216
+59,Potrero,216
+60,Princeton,216
+61,Rest of Hawaii,216
+62,Savannah,216
+63,Singapore,184
+64,Sioux City,216
+65,Tampa Bay,216
+66,Tanunda,14
+67,Trentham East,14
+68,Valdosta,216
+69,Vernonia,216
+70,Victor Harbor,14
+71,Vineland Station,37
+72,Waterloo,216
+73,Weirton,216
+74,Winchester Bay,216
+75,Yorkton,37
+76,Abu Dhabi,214
+77,Dubai,214
+78,Sharjah,214
+79,Agra,1
+80,Ahmedabad,1
+81,Allahabad,1
+82,Amritsar,1
+83,Aurangabad,1
+84,Bangalore,1
+85,Bhopal,1
+86,Bhubaneshwar,1
+87,Chandigarh,1
+88,Chennai,1
+89,Coimbatore,1
+90,Dehradun,1
+91,Faridabad,1
+92,Ghaziabad,1
+93,Goa,1
+94,Gurgaon,1
+95,Guwahati,1
+96,Hyderabad,1
+97,Indore,1
+98,Jaipur,1
+99,Kanpur,1
+100,Kochi,1
+101,Kolkata,1
+102,Lucknow,1
+103,Ludhiana,1
+104,Mangalore,1
+105,Mohali,1
+106,Mumbai,1
+107,Mysore,1
+108,Nagpur,1
+109,Nashik,1
+110,New Delhi,1
+111,Noida,1
+112,Panchkula,1
+113,Patna,1
+114,Puducherry,1
+115,Pune,1
+116,Ranchi,1
+117,Secunderabad,1
+118,Surat,1
+119,Vadodara,1
+120,Varanasi,1
+121,Vizag,1
+122,Bandung,94
+123,Bogor,94
+124,Jakarta,94
+125,Tangerang,94
+126,Auckland,148
+127,Wellington City,148
+128,Birmingham,215
+129,Edinburgh,215
+130,London,215
+131,Manchester,215
+132,Doha,166
+133,Cape Town,189
+134,Inner City,189
+135,Johannesburg,189
+136,Pretoria,189
+137,Randburg,189
+138,Sandton,189
+139,Colombo,191
+140,Ankara,208
+141,��stanbul,208
